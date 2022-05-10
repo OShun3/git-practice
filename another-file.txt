@@ -1,2 +1,2 @@
 新しいファイルをmainで作成
-pull時のrebase用
+pull時のrebaseしなかったとき用
