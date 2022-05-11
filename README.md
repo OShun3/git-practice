@@ -3,4 +3,4 @@
 ローカルリポジトリで変更
 rebase-practiceで変更(2回目)
 pull用
-stash練習
+stash練習(2回目)
